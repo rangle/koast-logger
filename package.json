@@ -1,0 +1,27 @@
+{
+  "name": "koast-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rangle/koast-logger.git"
+  },
+  "author": "Evan Schultz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-schultz/koast-logger/issues"
+  },
+  "homepage": "https://github.com/e-schultz/koast-logger",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "rangle-gulp": "0.0.7"
+  },
+  "dependencies": {
+    "underscore": "^1.7.0",
+    "winston": "^0.8.3"
+  }
+}
